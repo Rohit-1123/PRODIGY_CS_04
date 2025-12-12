@@ -1,4 +1,3 @@
-# PRODIGY_CS_04
 # Keylogger with GUI (Python + Tkinter)
 
 This project is a simple **Keylogger** built in **Python**, enhanced with a basic **Tkinter GUI** for ease of use. It captures keystrokes in the background and stores them in a log file for monitoring or testing purposes.
